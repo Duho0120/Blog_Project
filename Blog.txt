@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, I am conflict. ^^
+=======
+I am Merge..!
+>>>>>>> master
