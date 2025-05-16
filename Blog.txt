@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi, I am conflict. ^^
-=======
-I am Merge..!
->>>>>>> master
+my name is conflict.
